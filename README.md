@@ -5,4 +5,4 @@
 * Run `python main.py`
 
 ## Training for Pendigits
-* Run `training_for_pendigits.ipynb` 
+* Run `training_for_pendigits/training_for_pendigits.ipynb` 
